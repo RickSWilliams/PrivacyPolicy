@@ -233,5 +233,10 @@
         }
       ]
     }
-  ]
+  ],
+  "convenienceFees": {
+    "standard": 2.19,
+    "premium": 2.69,
+    "lastUpdated": "2025-10-11"
+  }
 }
