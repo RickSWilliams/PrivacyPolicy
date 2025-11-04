@@ -7,8 +7,8 @@
         { "level": 0, "price": 18.00 },
         { "level": 1, "price": 21.00 },
         { "level": 2, "price": 23.50 }
-    ]
-    }
+      ]
+    },
     {
       "startDate": "2022-11-01",
       "endDate": "2024-10-31",
