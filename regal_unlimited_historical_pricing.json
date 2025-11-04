@@ -1,0 +1,36 @@
+{
+  "pricingHistory": [
+    {
+    "startDate": "2019-07-01",
+    "endDate": "2022-10-31",
+    "tiers": [
+        { "level": 0, "price": 18.00 },
+        { "level": 1, "price": 21.00 },
+        { "level": 2, "price": 23.50 }
+    ]
+    }
+    {
+      "startDate": "2022-11-01",
+      "endDate": "2024-10-31",
+      "tiers": [
+        { "level": 0, "price": 18.99 },
+        { "level": 1, "price": 21.99 },
+        { "level": 2, "price": 24.49 }
+      ]
+    },
+    {
+      "startDate": "2024-12-01",
+      "endDate": null,
+      "tiers": [
+        { "level": 0, "price": 21.49 },
+        { "level": 1, "price": 24.49 },
+        { "level": 2, "price": 26.49 }
+      ]
+    }
+  ],
+  "convenienceFees": {
+    "onlineFee": 0.50,
+    "lastUpdated": "2025-11-04"
+  }
+}
+
