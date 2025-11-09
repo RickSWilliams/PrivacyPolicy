@@ -57,8 +57,10 @@
           "price": 21.95,
           "states": [
             "CO",
+            "DC",
             "DE",
             "FL",
+            "IN",
             "GA",
             "IL",
             "MD",
@@ -129,7 +131,9 @@
           "price": 22.95,
           "states": [
             "CO",
+            "DC",
             "DE",
+            "IN",
             "FL",
             "GA",
             "IL",
@@ -165,6 +169,7 @@
             "AK",
             "AL",
             "AR",
+            "AZ",
             "HI",
             "IA",
             "ID",
@@ -191,6 +196,7 @@
         {
           "price": 23.99,
           "states": [
+            "DE",
             "IN",
             "KY",
             "LA",
@@ -199,6 +205,7 @@
             "NV",
             "OH",
             "OK",
+            "PA",
             "TN",
             "TX"
           ],
