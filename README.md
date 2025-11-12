@@ -6,4 +6,4 @@ We use RevenueCat to manage subscriptions and analyze anonymized purchase activi
 
 No other data is collected, stored, or shared.
 
-For questions, contact: rick.williams@mac.com.
+For questions, contact: hello@reelsavings.app.
