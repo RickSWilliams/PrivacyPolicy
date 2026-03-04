@@ -241,9 +241,13 @@
       ]
     }
   ],
+  "convenienceFeeHistory": [
+    { "startDate": "2018-06-16", "endDate": "2026-03-03", "standard": 2.19, "premium": 2.69 },
+    { "startDate": "2026-03-04", "endDate": null, "standard": 2.49, "premium": 2.99 }
+  ],
   "convenienceFees": {
-    "standard": 2.19,
-    "premium": 2.69,
-    "lastUpdated": "2025-11-09"
+    "standard": 2.49,
+    "premium": 2.99,
+    "lastUpdated": "2026-03-04"
   }
 }
