@@ -161,7 +161,7 @@
     },
     {
       "startDate": "2025-05-07",
-      "endDate": null,
+      "endDate": "2026-07-14",
       "tiers": [
         {
           "price": 19.99,
@@ -237,6 +237,87 @@
             "NY"
           ],
           "description": "Top tier (2025)"
+        }
+      ]
+    },
+    {
+      "startDate": "2026-07-15",
+      "endDate": null,
+      "tiers": [
+        {
+          "price": 19.99,
+          "states": [
+            "AK",
+            "AL",
+            "AR",
+            "AZ",
+            "HI",
+            "IA",
+            "ID",
+            "KS",
+            "ME",
+            "MI",
+            "MO",
+            "MS",
+            "MT",
+            "NE",
+            "NH",
+            "NM",
+            "RI",
+            "SC",
+            "SD",
+            "UT",
+            "VT",
+            "WI",
+            "WV",
+            "WY"
+          ],
+          "description": "Lowest-cost tier (2026)"
+        },
+        {
+          "price": 25.99,
+          "states": [
+            "DE",
+            "IN",
+            "KY",
+            "LA",
+            "NC",
+            "ND",
+            "NV",
+            "OH",
+            "OK",
+            "PA",
+            "TN",
+            "TX"
+          ],
+          "description": "Mid-tier tier (2026)"
+        },
+        {
+          "price": 27.99,
+          "states": [
+            "CO",
+            "CT",
+            "DC",
+            "FL",
+            "GA",
+            "IL",
+            "MA",
+            "MD",
+            "MN",
+            "NJ",
+            "OR",
+            "VA",
+            "WA"
+          ],
+          "description": "Higher tier (2026)"
+        },
+        {
+          "price": 29.99,
+          "states": [
+            "CA",
+            "NY"
+          ],
+          "description": "Top tier (2026)"
         }
       ]
     }
